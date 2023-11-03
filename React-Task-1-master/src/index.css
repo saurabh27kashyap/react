@@ -1,0 +1,14 @@
+/* Add this CSS to your component's CSS file or use a CSS-in-JS solution */
+
+textarea {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 16px;
+}
+
+p {
+  font-size: 18px;
+}
